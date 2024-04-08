@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse!
 - 👀 I’m interested in pretty much all things tech and I plan to pursue the field now that I am an Air Force retiree!
-- 🌱 I’m currently learning skills to become a cybersecurity professional via Google's certification course!
+- 🌱 I’m currently learning skills to become a cybersecurity professional via Google's certification course.
 - 💞️ I’m looking to collaborate on anything that could help me be better in the cybersecurity field.
 - 📫 You can reach me through my social media links.
 - 😄 Pronouns: he/him
